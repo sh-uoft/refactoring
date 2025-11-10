@@ -1,7 +1,9 @@
-780b83b (HEAD -> task-2) Task 2.3: removed the frmt variable from StatementPrinter.statement()
+ab197c3 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from sh-uoft/task-2
+54712d0 (origin/task-2, task-2) Task 2.4: removed local variables from StatementPrinter.statement()
+780b83b Task 2.3: removed the frmt variable from StatementPrinter.statement()
 c4a9385 Task 2.2: extracted StatementPrinter.getVolumeCredits()
-3203905 (origin/task-2) Task 2.1: refactored StatementPrinter.statement()
-b936e0d (origin/main, origin/HEAD, main) Merge pull request #1 from sh-uoft/task-1
+3203905 Task 2.1: refactored StatementPrinter.statement()
+b936e0d Merge pull request #1 from sh-uoft/task-1
 8186afc (origin/task-1, task-1) Task 1.2: edited log.txt
 6fcc91d Task 1.1: fixed CheckStyle issues
 b545fe2 clarifying extracted method names in README.md
