@@ -1,4 +1,5 @@
-c4a9385 (HEAD -> task-2) Task 2.2: extracted StatementPrinter.getVolumeCredits()
+780b83b (HEAD -> task-2) Task 2.3: removed the frmt variable from StatementPrinter.statement()
+c4a9385 Task 2.2: extracted StatementPrinter.getVolumeCredits()
 3203905 (origin/task-2) Task 2.1: refactored StatementPrinter.statement()
 b936e0d (origin/main, origin/HEAD, main) Merge pull request #1 from sh-uoft/task-1
 8186afc (origin/task-1, task-1) Task 1.2: edited log.txt
