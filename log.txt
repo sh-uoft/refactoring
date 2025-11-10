@@ -1,5 +1,10 @@
-6fcc91d (HEAD -> task-1) Task 1.1: fixed CheckStyle issues
-b545fe2 (origin/main, origin/HEAD, main) clarifying extracted method names in README.md
+780b83b (HEAD -> task-2) Task 2.3: removed the frmt variable from StatementPrinter.statement()
+c4a9385 Task 2.2: extracted StatementPrinter.getVolumeCredits()
+3203905 (origin/task-2) Task 2.1: refactored StatementPrinter.statement()
+b936e0d (origin/main, origin/HEAD, main) Merge pull request #1 from sh-uoft/task-1
+8186afc (origin/task-1, task-1) Task 1.2: edited log.txt
+6fcc91d Task 1.1: fixed CheckStyle issues
+b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
